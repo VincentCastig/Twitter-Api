@@ -1,0 +1,26 @@
+{
+  "name": "npm_tweet",
+  "version": "1.0.0",
+  "description": "Users Tweets",
+  "main": "index.js",
+  "dependencies": {
+    "twit": "^2.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincentCastig/Twitter-Api.git"
+  },
+  "keywords": [
+    "words"
+  ],
+  "author": "Vincent Castigliola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VincentCastig/Twitter-Api/issues"
+  },
+  "homepage": "https://github.com/VincentCastig/Twitter-Api#readme"
+}
